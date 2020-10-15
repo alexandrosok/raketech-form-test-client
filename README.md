@@ -1,6 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 React subscription app communication the the nodejs server.
+<br />
+/Helpers/UrlList.js {Host} should be http://localhost:4007/
 
 ## For Development
 Server is running on http://localhost:3000
@@ -24,6 +26,8 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 ### `npm run build`
 
 Builds the app for production to the `build` folder.<br />
+
+/Helpers/UrlList.js {Host} should be http://18.194.254.254:4007/
 
 ## For production 
 Server is running on http://18.194.254.254:8080/
